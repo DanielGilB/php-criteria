@@ -2,8 +2,8 @@
     "name": "codelytv/criteria",
     "require": {
         "doctrine/orm": "^3",
-        "illuminate/database": "^11",
-        "illuminate/http": "^v11",
+        "illuminate/database": "^12",
+        "illuminate/http": "^v12",
         "lambdish/phunctional": "^2.1",
         "php": "^8.2",
         "symfony/http-foundation": "^v7"

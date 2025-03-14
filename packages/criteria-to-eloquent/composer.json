@@ -3,7 +3,7 @@
     "require": {
         "php": "^8.2",
         "codelytv/criteria": "^0.1.3",
-        "illuminate/database": "^11"
+        "illuminate/database": "^12"
     },
     "require-dev": {
         "codelytv/criteria-test-mother": "^0.1.3"
